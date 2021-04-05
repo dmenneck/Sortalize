@@ -173,7 +173,7 @@ const algorithms = {
     },
     code: {
       link:
-        "https://github.com/dmenneck/Sortalize/blob/master/src/components/Selectionsort.js",
+        "https://github.com/dmenneck/Sortalize/blob/master/src/components/Bubblesort.js",
       js: bubble_sort,
     },
   },
@@ -187,7 +187,7 @@ const algorithms = {
     },
     code: {
       link:
-        "https://github.com/dmenneck/Sortalize/blob/master/src/components/Selectionsort.js",
+        "https://github.com/dmenneck/Sortalize/blob/master/src/components/Gnomesort.js",
       js: gnome_sort,
     },
   },
@@ -201,7 +201,7 @@ const algorithms = {
     },
     code: {
       link:
-        "https://github.com/dmenneck/Sortalize/blob/master/src/components/Selectionsort.js",
+        "https://github.com/dmenneck/Sortalize/blob/master/src/components/InsertionSort.js",
       js: insertion_sort,
     },
   },
@@ -229,7 +229,7 @@ const algorithms = {
     },
     code: {
       link:
-        "https://github.com/dmenneck/Sortalize/blob/master/src/components/Selectionsort.js",
+        "https://github.com/dmenneck/Sortalize/blob/master/src/components/Shakersort.js",
       js: shaker_sort,
     },
   },
