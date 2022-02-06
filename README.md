@@ -4,6 +4,8 @@
 
 ## Sort'alize - visualize sorting!
 
+https://sortalize.netlify.app/
+
 <!-- Built With -->
 
 ### Built With
